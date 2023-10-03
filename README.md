@@ -1,2 +1,3 @@
-# simple_webpage
-A simple webpage
+# Simple Webpage
+
+Can be served live with vs code for demonstration purposes.
